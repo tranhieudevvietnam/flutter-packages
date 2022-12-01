@@ -15,12 +15,12 @@ dependencies:
   flutter_map:
     # path: /Users/user/Documents/GitHub/flutter-project/flutter_map-3.0.0
     git:
-      url: https://github.com/tranhieudevvietnam/flutter-project.git
+      url: https://github.com/tranhieudevvietnam/flutter-packages.git
       ref: main
       path: flutter_map-3.0.0
   flutter_map_marker_popup: 
     git:
-      url: https://github.com/tranhieudevvietnam/flutter-project.git
+      url: https://github.com/tranhieudevvietnam/flutter-packages.git
       ref: main
       path: flutter_map_marker_popup
     # path: /Users/user/Documents/GitHub/flutter-project/flutter_map_marker_popup
