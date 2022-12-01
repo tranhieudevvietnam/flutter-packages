@@ -54,7 +54,16 @@ class PolylinePoints {
   }
 
   Future<GeocodingResult?> getAddressByCoordinates(
-      String googleKey, double latitude, double longitude) async {
-    return await util.getAddressByCoordinates(googleKey, latitude, longitude);
+    String googleKey,
+    double latitude,
+    double longitude, {
+    String? androidCert,
+    String? androidPackage,
+    String? bundleId,
+  }) async {
+    return await util.getAddressByCoordinates(googleKey, latitude, longitude,
+        androidCert: androidCert,
+        androidPackage: androidPackage,
+        bundleId: bundleId);
   }
 }
