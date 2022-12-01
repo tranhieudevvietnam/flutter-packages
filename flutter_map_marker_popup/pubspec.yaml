@@ -1,0 +1,26 @@
+name: flutter_map_marker_popup
+description: A plugin for flutter_map to show a customisable popup Widget when a marker is tapped. Also provides methods to show/hide popups.
+version: 4.0.0
+homepage: https://github.com/rorystephenson/flutter_map_marker_popup
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  animated_stack_widget: ^0.0.4
+  # flutter_map: ^3.0.0
+  flutter_map: 
+    git:
+      url: https://github.com/tranhieudevvietnam/flutter-project.git
+      ref: main
+      path: flutter_map-3.0.0
+  latlong2: ">=0.7.0 <1.0.0"
+  provider: ^6.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: 
