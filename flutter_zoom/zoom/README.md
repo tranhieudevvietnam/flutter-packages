@@ -118,6 +118,17 @@ Disable shrinkResources for release buid
     }
 ```
 
+If error Manifest merger failed : Attribute application@usesCleartextTraffic value=(true) from AndroidManifest.xml
+
+In AndroidManifest.xml
+```
+<application
+  ...
+	tools:replace="android:usesCleartextTraffic"
+  >
+
+```
+
 ### Web
 
 Add stylesheet to the head of index.html
