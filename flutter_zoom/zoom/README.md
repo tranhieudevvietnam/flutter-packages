@@ -118,7 +118,7 @@ Disable shrinkResources for release buid
     }
 ```
 
-If error Manifest merger failed : Attribute application@usesCleartextTraffic value=(true) from AndroidManifest.xml
+# If error Manifest merger failed : Attribute application@usesCleartextTraffic value=(true) from AndroidManifest.xml
 
 In AndroidManifest.xml
 ```
