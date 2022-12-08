@@ -23,7 +23,7 @@ flutter pub run zoom:unzip_zoom_sdk
 ```yaml
 zoom:
   git:
-    url: https://github.com/ascvndev/asc_zoom_sdk.git
+    url: https://github.com/tranhieudevvietnam/flutter-packages.git
     ref: main
     path: zoom
 ```
