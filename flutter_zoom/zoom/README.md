@@ -118,15 +118,22 @@ Disable shrinkResources for release buid
     }
 ```
 
+
 # If error Manifest merger failed : Attribute application@usesCleartextTraffic value=(true) from AndroidManifest.xml
 
 In AndroidManifest.xml
 ```
+<manifest
+  ...
+  xmlns:tools="http://schemas.android.com/tools"
+  ...
+>
 <application
   ...
 	tools:replace="android:usesCleartextTraffic"
+  ...
   >
-
+ 
 ```
 
 ### Web
