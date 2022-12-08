@@ -1,0 +1,8 @@
+.DS_Store
+.dart_tool/
+.fvm/
+
+.packages
+.pub/
+
+build/
