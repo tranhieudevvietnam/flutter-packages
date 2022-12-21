@@ -56,12 +56,12 @@ pub run test
 You are interested in contributing please see the [CONTRIBUTING.md](CONTRIBUTING.md) file which will
 tell you more about:
 
-* Styling your contributions
-* Submitting issues and/or pull requests
+- Styling your contributions
+- Submitting issues and/or pull requests
 
 ## Credits
 
-* [IamBlueSlime](https://github.com/IamBlueSlime) - [TalkOpenSource](https://github.com/IamBlueSlime/TalkOpenSource/) for the project layout inspiration
+- [IamBlueSlime](https://github.com/IamBlueSlime) - [TalkOpenSource](https://github.com/IamBlueSlime/TalkOpenSource/) for the project layout inspiration
 
 ## License
 
@@ -70,19 +70,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contributors ✨
 
 Thanks goes to these wonderful people:
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/yudaprama">
-        <img src="https://avatars3.githubusercontent.com/u/33281225?s=460&u=b74cc75128f2c4f7c811797efca2dc23ffd19b7b&v=3" width="100px;" alt=""/>
-        <br />
-        <sub>
-          <b>yudaprama</b>
-        </sub>
-      </a>
-      <br />
-    </td>
-  </tr>
-</table>
-
